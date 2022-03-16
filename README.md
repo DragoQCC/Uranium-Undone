@@ -1,5 +1,5 @@
 # Uranium_Undone
-uranium undone is a simple UAC bypass using fodhelper with progIDs to help get past AV. Last tested 3/15/2022.  
+Uranium Undone is a simple UAC bypass using fodhelper with progIDs to help get past AV. Last tested 3/15/2022.  
 ![image](https://user-images.githubusercontent.com/15575425/158689240-ee26005f-0b65-400c-a36f-f2400fe9f2f3.png)
 
 
@@ -17,7 +17,7 @@ Should open the program in a High INT context.
 ![image](https://user-images.githubusercontent.com/15575425/158689912-48fdac6c-eb19-4e45-98e2-2b9a1b57fc18.png)
 
 ## credit
-based on Joe Helle's (The mayor) Articles https://medium.themayor.tech/utilizing-a-common-windows-binary-to-escalate-to-system-privileges-c16482cced4b
+Based on Joe Helle's (The mayor) Articles https://medium.themayor.tech/utilizing-a-common-windows-binary-to-escalate-to-system-privileges-c16482cced4b
 
 ## Disclaimer
 I am not responsible for actions taken by users of Uranium Undone. Uranium Undone was released solely for educational and ethical purposes.  
