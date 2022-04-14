@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace Uranium_Undone
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             UI.Ui.Banner();
             Console.WriteLine("Enter commmand you want to bypass UAC.");
@@ -27,7 +27,6 @@ namespace Uranium_Undone
             catch
             {
                 Console.WriteLine("Cleaning up execution failed.");
-                Console.ReadKey();
                 LetItSeeAgain();
             }
             
